@@ -9,6 +9,7 @@ public class Test {
 
         System.out.println("hot-fix");
         System.out.println("hot-fix");
+        System.out.println("master conflict");
     }
 
 }
