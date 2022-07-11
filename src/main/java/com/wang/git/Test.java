@@ -12,6 +12,7 @@ public class Test {
         System.out.println("master conflict");
         System.out.println("hotfix conflict");
         System.out.println("push conflict");
+        System.out.println("pull test");
     }
 
 }
